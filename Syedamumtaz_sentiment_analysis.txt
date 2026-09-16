@@ -1,0 +1,12 @@
+SENTIMENT SPY: FINAL MISSION REPORT
+========================================
+
+Username: Syedamumtaz
+
+Sentiment Results:
+Positive messages: 0
+Negative messages: 0
+Neutral messages: 0
+
+Conversation History:
+----------------------------------------
